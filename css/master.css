@@ -144,3 +144,9 @@ nav {
   justify-content: middle;
   align-items: center;
 }
+
+@media only screen and (max-width: 768px) {
+  .title h1 {
+    right: 0;
+  }
+}
