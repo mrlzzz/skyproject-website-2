@@ -1,6 +1,5 @@
 /* @Andrew Johnson */
 
-alert();
 
 function currentYPosition() {
     // Firefox, Chrome, Opera, Safari
